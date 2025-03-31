@@ -1,6 +1,7 @@
 Fancy jekyll powered single page site
 ======================
 "Hello"
+"This is version 2.0"
 Here're some examples:
 
 - **This repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
